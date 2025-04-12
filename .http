@@ -17,9 +17,9 @@ Content-Type: application/json
 ###
 POST http://localhost:3000/api/reserve
 Content-Type: application/json
-Cookie: access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjcsImVtYWlsX2FkZHJlc3MiOiJhYnJpbEBsb3JpbmN6MS5uZXQiLCJmaXJzdF9uYW1lIjoiQWJyaWwiLCJjcmVhdGVfYXQiOiIyMDI1LTA0LTEwVDAyOjE1OjE3LjAwMFoiLCJpYXQiOjE3NDQ0MTIzMzUsImV4cCI6MTc0NDQxNTkzNX0.n2BxFQ2MSLYxwAHPp5VCydg7tVnkN4TWzCiv2H3WYcE
+Cookie: access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjcsImVtYWlsX2FkZHJlc3MiOiJhYnJpbEBsb3JpbmN6MS5uZXQiLCJmaXJzdF9uYW1lIjoiQWJyaWwiLCJjcmVhdGVfYXQiOiIyMDI1LTA0LTEwVDAyOjE1OjE3LjAwMFoiLCJpYXQiOjE3NDQ0MTYyMzMsImV4cCI6MTc0NDQxOTgzM30.msH_qWzivJlglclAF3HgA-zQPymh3CRc4Xcw2DQZ7LU
 
 {
   "details": "Mesa para tres",
-  "data_reservation":"2025-02-13 12:04:10"
+  "data_reservation":"2025-02-13 13:04:10"
 }
